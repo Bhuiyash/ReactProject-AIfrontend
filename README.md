@@ -1,3 +1,9 @@
+
+This project was created from a Youtube online video lecture of JavaScript Mastery channel.
+The link for the above video is given below.
+I thank the teacher to help me with the project.
+https://www.youtube.com/watch?v=F627pKNUCVQ
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
